@@ -11,35 +11,20 @@ I believe **quality is not an act, it’s a habit** — and that mindset drives 
 
 ---
 
-## 🛠️ QA Tech Stack  
+## 🛠️ My QA Toolbox  
 
-### 🔹 **Languages & Scripting**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-</p>
+✅ **Testing Types I Excel In**  
+- 🕵️ Manual Testing (Functional | Regression | Smoke | UAT)  
+- 🤖 Automation Testing (UI | API | Regression | End-to-End)  
+- 🎮 Game Testing (PC, Console, Mobile)  
+- 📊 API Testing (Postman, Swagger)  
+- ⚙️ Performance Testing (Load & Stress)
 
-### 🔹 **QA Tools & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ranorex-FF0000?style=for-the-badge" alt="Ranorex"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge" alt="Robot Framework"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
-</p>
-
-### 🔹 **Project Management & Collaboration**
-<p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/TestRail-1E90FF?style=for-the-badge" alt="TestRail"/>
-  <img src="https://img.shields.io/badge/Zephyr-4B9CD3?style=for-the-badge" alt="Zephyr"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-</p>
-
----
+✅ **Tools & Frameworks I Work With**  
+- 🛠️ Ranorex | Selenium | Robot Framework  
+- 🧪 Postman | JMeter  
+- 🔧 Jira | TestRail | Zephyr  
+- 🗂️ GitHub | GitLab  
 
 ✅ **Skills That Set Me Apart**  
 - 📝 Writing **clear, actionable bug reports** that devs love  
