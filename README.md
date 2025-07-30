@@ -64,8 +64,7 @@ When I’m not breaking software, I’m **building playlists, exploring tech tre
 
 ## 📫 Let’s Connect!  
 📧 **Email:** ekekwemalcolm@gmail.com  
-🌍 **LinkedIn:** [Your LinkedIn Link Here]  
-🐦 **Twitter/X:** [Optional]  
+🌍 **LinkedIn:** https://www.linkedin.com/in/malcolm-e-b0a0011a3
 
 > 💡 *“Testing leads to failure, and failure leads to understanding.”* – Burt Rutan
 
