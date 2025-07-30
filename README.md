@@ -21,7 +21,7 @@ I believe **quality is not an act, it’s a habit** — and that mindset drives 
 - ⚙️ Performance Testing (Load & Stress)
 
 ✅ **Tools & Frameworks I Work With**  
-- 🛠️ Ranorex | Selenium | Robot Framework  
+- 🛠️ Playwright | Ranorex | Selenium | Robot Framework 
 - 🧪 Postman | JMeter  
 - 🔧 Jira | TestRail | Zephyr  
 - 🗂️ GitHub | GitLab  
