@@ -23,7 +23,7 @@ I believe **quality is not an act, it’s a habit** — and that mindset drives 
 ✅ **Tools & Frameworks I Work With**  
 - 🛠️ Playwright | Ranorex | Selenium | Robot Framework 
 - 🧪 Postman | JMeter  
-- 🔧 Jira | TestRail | Zephyr  
+- 🔧 Jira | TestRail | Zephyr | Azure
 - 🗂️ GitHub | GitLab  
 
 ✅ **Skills That Set Me Apart**  
