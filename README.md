@@ -35,7 +35,7 @@ I believe **quality is not an act, it’s a habit** — and that mindset drives 
 ---
 
 ## 📌 Highlight Projects  
-🔹 **Automated Functional Test Suite for Web Platform** – Cut regression time by 40% using Ranorex & Selenium.  
+🔹 **Automated Functional Test Suite for Web Platform** – Cut regression time by 60% using Playwright, Ranorex & Selenium.  
 🔹 **Game Testing Portfolio** – Tested Web3 games, mobile titles, and console experiences, uncovering critical bugs pre-launch.  
 🔹 **QA Documentation Hub** – Created reusable templates for test cases & bug reports that sped up team onboarding.
 
