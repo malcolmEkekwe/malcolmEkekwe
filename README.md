@@ -18,4 +18,8 @@ Welcome to my manual QA portfolio focused on software testing of the ShopStack e
 - **qa-test-reports** – Test execution summaries and defect metrics
 - **qa-exploratory-sessions** – Notes from exploratory testing sessions
 
+## Automation
+
+In addition to manual testing artefacts, this portfolio includes a lean set of Playwright tests under the [`qa-playwright-tests`](https://github.com/malcolmEkekwe/qa-playwright-tests) repository. These tests automate smoke and core regression scenarios such as login, searching products, adding items to the cart and completing a checkout. The automation suite is intentionally lightweight for v1 and is designed to grow alongside the manual artefacts. Continuous integration runs the suite across Chromium, Firefox and WebKit, with HTML reports generated for each run.
+
 Feel free to explore each repository to see detailed artifacts and documentation.
