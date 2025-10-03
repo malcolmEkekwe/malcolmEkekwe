@@ -1,6 +1,6 @@
-# Manual QA Engineer Portfolio
+# QA Engineer Portfolio
 
-Welcome to my manual QA portfolio focused on software testing of the ShopStack e‑commerce application. I specialize in test design, documentation, and defect reporting. Below you'll find links to repositories that showcase my work on test cases, bug reports, regression suites, UAT checklists, and more.
+Welcome to my QA portfolio focused on software testing of the ShopStack e‑commerce application. I specialize in test design, documentation, and defect reporting. Below you'll find links to repositories that showcase my work on test cases, bug reports, regression suites, UAT checklists, and more.
 
 ## Key Skills
 - Manual test design for web and mobile applications
